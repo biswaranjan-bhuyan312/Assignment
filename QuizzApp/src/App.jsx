@@ -8,8 +8,8 @@ function App() {
   return (
     <>
       <div>
-        {/* <Quizz/> */}
-        <Home/>
+        <Quizz/>
+        {/* <Home/> */}
       </div>
     </>
   )
